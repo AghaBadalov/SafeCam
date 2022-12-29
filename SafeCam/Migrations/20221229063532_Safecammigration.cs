@@ -1,0 +1,19 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace SafeCam.Migrations
+{
+    public partial class Safecammigration : Migration
+    {
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+
+        }
+    }
+}
